@@ -4,11 +4,11 @@
 
 - student of 42 Madrid.
 - Currently I spend my days working or studying.
-- I´m learning how to program in C, Javascript and Phyton.👨🏽‍🎓👨🏽‍💻
+- I´m learning how to program in C,(Full stack) Javascript and Phyton.👨🏽‍🎓👨🏽‍💻
 - Always ready to help in any way possible.
 - How to reach me: **cristiantorres07@hotmail.com**
 
-###My way in 42Madrid school
+### My way in 42Madrid school
 
 | Project link 🔗🖥️ | Score✅ |
 |----------|---------|
