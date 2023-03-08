@@ -1,5 +1,8 @@
 <h1 align="center">🖐🏽 I'm Cristian Torres!✨</h1>
 
+Badge 42:
+<a href="https://www.42madrid.com/" target="_blank"><img src="https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/stats?cursusId=21&coalitionId=65" alt="crtorres's 42 stats" /></a>
+
 [![crtorres's 42 stats](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 - student of 42 Madrid.
