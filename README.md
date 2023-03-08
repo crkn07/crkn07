@@ -1,6 +1,7 @@
 <h1 align="center">🖐🏽 I'm Cristian Torres!✨</h1>
 
 | [![crkn07's GitHub stats](https://github-readme-stats.vercel.app/api?username=crkn07&show_icons=true&theme=vue-dark)](https://profile.intra.42.fr/users/crtorres-) | [![crkn07's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crkn07&layout=compact&hide_border=true&theme=jolly)](https://github.com/crkn07?tab=repositories) |
+|:-:|:-:|
 
 [![crtorres's 42 stats](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
