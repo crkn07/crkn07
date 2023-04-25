@@ -26,7 +26,7 @@
 | [**Get_next_line📌**](https://github.com/crkn07/get_next_line) | [![crtorres's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2837234)](https://github.com/JaeSeoKim/badge42) |
 | [**Exam rank02📣**](https://github.com/crkn07/examen-1) | [![crtorres's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2913432)](https://github.com/JaeSeoKim/badge42) |
 | [**So Long🕹️**](https://github.com/crkn07/so_long_42) | [![crtorres's 42 so_long Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2878596)](https://github.com/JaeSeoKim/badge42) |
-| **Pipex (in progress)↔️** | [![crtorres's 42 pipex Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3004793)](https://github.com/JaeSeoKim/badge42) |
+| [**Pipex↔️**](https://github.com/crkn07/Pipex) | [![crtorres's 42 pipex Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3004793)](https://github.com/JaeSeoKim/badge42) |
 
 
 <!--
