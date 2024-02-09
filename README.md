@@ -28,7 +28,7 @@
 | [**So Long🕹️**](https://github.com/crkn07/so_long_42) | [![crtorres's 42 so_long Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2878596)](https://github.com/JaeSeoKim/badge42) |
 | [**Pipex↔️**](https://github.com/crkn07/Pipex) | [![crtorres's 42 pipex Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3004793)](https://github.com/JaeSeoKim/badge42) |
 | [**Push_Swap📐**](https://github.com/crkn07/push_swap_42) | [![crtorres's 42 push_swap Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3042273)](https://github.com/JaeSeoKim/badge42) |
-| [**Philosophers🤔**] | [![crtorres's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3078901)](https://github.com/JaeSeoKim/badge42) |
+| [**Philosophers🤔**] (https://github.com/crkn07/philosophers_42) | [![crtorres's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3078901)](https://github.com/JaeSeoKim/badge42) |
 
 
 <!--
